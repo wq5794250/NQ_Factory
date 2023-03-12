@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#is28mm {
+    width: 226.8px;
+    en: 1;
+}
+
+#irfrll {
+    width: 415px;
+    height: 205.516px;
+    en: 1;
+}
+
+#i0z1yb {
+    width: 1270px;
+    height: 612.5px;
+    en: 1;
+}
+
+.wrapper.image-wrapper.bg-image.bg-cover.bg-height {
+    background-image: url('https://s2.loli.net/2023/01/13/quRnWyiwb36rkJT.png');
+}
+
+.container.flex-lg-row.flex-nowrap.align-items-center {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    border-radius: 6px 44px 258px 42px;
+}
+
+.c6400 {
+    color: black;
+    width: 81px;
+    height: 81px;
+}
+
+.c6653 {
+    padding: 10px;
+    border: 0px solid #080101;
+}
+
+.c7834 {
+    color: black;
+    width: 182px;
+    height: 182px;
+}
+
+.row {
+    display: table;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.cell {
+    width: 8%;
+    display: table-cell;
+    height: 75px;
+}
+
+.c10936 {
+    padding: 10px;
+}
+
+.c11270 {
+    padding: 10px;
+}
+
+@media (max-width: 768px) {
+    .cell {
+        width: 100%;
+        display: block;
+    }
+}
